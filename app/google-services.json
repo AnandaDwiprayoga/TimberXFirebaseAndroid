@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211233220753",
+    "project_id": "crashreportingandroid-1a58c",
+    "storage_bucket": "crashreportingandroid-1a58c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211233220753:android:2d885287f5669df6333730",
+        "android_client_info": {
+          "package_name": "id.pasukanlangit.crashreportingandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211233220753-09jpmpusakstv6knnipivjmotht3r37v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AXp41VvqhZ7W_ShKn8uc8OeMSv_6xnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211233220753-09jpmpusakstv6knnipivjmotht3r37v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
